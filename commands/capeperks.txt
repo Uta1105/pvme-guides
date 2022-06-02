@@ -1,0 +1,20 @@
+{
+  "embed": {
+    "title": "__What Skillcape Effects to use for PvM__",
+    "description": "*Note: this is just what we recommend, for details on the mentioned cape effects refer to the **Max/Comp** section of <#689235882724818962>*",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__Anachronia Cape Stand__",
+        "value": "⬥ <:Constitution:689509250887712902>",
+        "inline": true
+      },
+      {
+        "name": "__Max Cape__ <:maxcape:580177795703898117>",
+        "value": "⬥ <:Defence:689509250979987525>, <:Strength:689509250879324165>, and <:Ranged:689504724403486920>",
+        "inline": true
+      }
+    ]
+  }
+}
+.embed:json

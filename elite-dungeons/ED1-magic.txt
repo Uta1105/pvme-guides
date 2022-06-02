@@ -16,8 +16,6 @@ Each solo run of ED1 is worth <:coins:698816156961603654> $data_pvme:Bosses!E528
 
 ⬥ It's also assumed that you have completed City of Senntisten quest and that you will be using Incite Fear as your auto cast spell.
 
-⬥ Magic ED1 is a learner friendly option out of the three styles. The gear required for optimal strategies is relatively cheap compared to the other styles.
-
 ⬥ Feel free to adjust the boss rotations to better suit your skill level with switches and 4TAA.
 
 ⬥ The boss rotations assume you have **Invigorating 4** <:invig4:712073087859949570> perk
@@ -162,7 +160,7 @@ https://www.youtube.com/watch?v=HGAFInc6tds
 .
 > **__Sanctum Guardian__**
 .tag:sanctum
-.img:https://i.imgur.com/FPOOp1C.png
+.img:https://i.imgur.com/u5gpYd5.jpg
 .
 The first boss of the Temple of Aminishi follows a straightforward attack pattern containing highly damaging attacks which are capable of KOing someone unprepared.
 
@@ -286,7 +284,7 @@ Once learned, this boss will essentially become a DPS dummy in where your killti
 .
 > **__Masuta, the Ascended__**
 .tag:masuta
-.img:https://i.imgur.com/cUGy1Ad.png
+.img:https://i.imgur.com/VydlHU7.jpg
 .
 Masuta, the second boss of the dungeon, keeps true to the dungeon's theme of heavy damage dealt and high KO potential. Using a variety of hard-hitting mechanics and boasting attacks from all three combat styles, Masuta is a noticeable difficulty spike up from the first boss.
 
@@ -416,7 +414,7 @@ Starts when Masuta yells "These waters will choke you where you stand!" and retu
 .
 > **__Seiryu, the Azure Serpent__**
 .tag:seiryu
-.img:https://i.imgur.com/1LxKntU.png
+.img:https://i.imgur.com/tFsgIWX.jpg
 .
 To finish the dungeon, you need to free Seiryu by destroying the three black crystals on his shackles. This fight will challenge a player's ability to utilise the space they have in the arena to avoid a series of area-based mechanics.
 
@@ -502,7 +500,7 @@ When an enigma reaches his face, it will heal any standing crystal by 50k HP.
     • It can't be stressed enough: Do not jump down to deal with the blobs in any circumstance.
 
 ⬥ **Middle Crystal Rotation**
-Make sure the middle crystal has <:Vuln:537349530551582720> and <:smokecloud:856635090641879050> → <:corruptblast:513190159194259467> (dw) + dominion mines <:dommine:662249620579155968> on the 4th heal → <:bloodbarrage:537338981747261446> <:onsl:513190159085207555>→ Cancel <:onsl:513190159085207555> with <:dbreath:535533833391702017> after you HP goes below 4k.
+Make sure the middle crystal has <:Vuln:537349530551582720> and <:smokecloud:856635090641879050> → <:corruptblast:513190159194259467> (DW) + dominion mines <:dommine:662249620579155968> on the 4th heal → <:bloodbarrage:537338981747261446> <:onsl:513190159085207555>→ Cancel <:onsl:513190159085207555> with <:dbreath:535533833391702017> after you HP goes below 4k.
 
 *Note: It is a good idea to stack hp boosts like bonfire, Sailfish <:Sailfish:565726489363087360> and Font of Life <:fontoflife:698225967679930408> for this strategy to get most out of onslaught.*
 

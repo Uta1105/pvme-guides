@@ -159,7 +159,7 @@ Ripper Demons have a few mechanics:
 ⬥ Stand to the east of the cave, place the Oldak Coil <:oldakcoil:798285651387613194> on the red square shown in the image below, and step back east to the yellow square to attack the demons. Use the Berserk <:Berserk:513190158468907012> ability when you have Devotion <:devo:513190158728953857> active, similar to the previous method, and in between use ZGS spec <:zgs:626465964325601290> <:spec:537340400273195028> and Meteor Strike <:meteorstrike:535532879359377439> to keep damage high. If attacking multiple demons without a damage boosting effect, this is a good time to use your Demon Slayer <:demonslayer:641339921675845633> ability to help keep damage high. If all the Rippers in the room are dead, step north to the other yellow square to escape the spin and reduce damage taken. Alloy Spikes <:armourspike:756235792053174332> are useful here to provide more hitsplats for poison damage.
 
 .
-⬥ Usage of auto-retaliate can be useful for situational 2h auto attacks. Dead Ripper Demons can still be clicked while performing their death spin attack, but cannot be targeted. This can sometimes make it difficult to target the correct Ripper Demon through clicking, making auto-retaliate a reasonable option here. Target Cycling can also be used, but will lose the easy access to a 2h auto attack.
+⬥ Usage of auto-retaliate can be useful for situational 2H auto attacks. Dead Ripper Demons can still be clicked while performing their death spin attack, but cannot be targeted. This can sometimes make it difficult to target the correct Ripper Demon through clicking, making auto-retaliate a reasonable option here. Target Cycling can also be used, but will lose the easy access to a 2H auto attack.
 
 .
 **__Preset__**
@@ -192,6 +192,13 @@ Ripper Demons have a few mechanics:
     • It is helpful to set an Alt1 alert on the alt account to prevent it from logging out.
 .
 .img:https://imgur.com/NjsAyGm.png
+.
+⬥ **IMPORTANT NOTE (Courtesy of <@256447155005292546>)**
+    • If the alt method is done properly, ripper demons would not be able to attack you **AT ALL**. They should simply jump to you and then not attack.
+    • If you are getting attacked, your alt probably got **trampled**. When a ripper demon or another player passes through your alt, it makes your alt unable to block rippers, thus breaking the triangle.
+        - Quick explanation of trampling: <https://www.youtube.com/watch?v=qCZKk8pCmjc>
+        - The most simple way to fix this is to move your alt away and then back to the spot.
+
 .
 ⬥ Use Animate Dead <:animatedead:856635090453135382> to almost completely eliminate the need for healing.
     • Bring Blue Blubber Jellyfish <:blueblubber:689530593742291033> or Super Guthix Brews <:supergrest:690140078407680059> for emergency healing, as they will not severely delay your attacks.

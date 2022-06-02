@@ -83,10 +83,10 @@ __**Room 2**__
 
 .
 __**Room 3**__
-⬥ Bladed Dive <:bd:535532854281764884> and walk to middle of the next gate and target the middle of the 3 sakadagami, wait to release your non-combat spell with 2h then Greater Ricochet <:grico:787904334812807238> and run west for 1 tick
+⬥ Bladed Dive <:bd:535532854281764884> and walk to middle of the next gate and target the middle of the 3 sakadagami, wait to release your non-combat spell with 2H then Greater Ricochet <:grico:787904334812807238> and run west for 1 tick
 ⬥ Run back east (this should lure them together) → equip <:mechchin:641669268722810881> → <:bindingshot:535541306563231790> <:surge:535533810004262912> → <:shadowtend:642713547142332416> → <:snap:535534127131394088>. Finish with basics if needed and continue to next section.
 
-*Note: If you're not using a 2h switch, then you must run 3 tiles west from where you used Greater Ricochet <:grico:787904334812807238> to lure them.*
+*Note: If you're not using a 2H switch, then you must run 3 tiles west from where you used Greater Ricochet <:grico:787904334812807238> to lure them.*
 .
 .img:https://imgur.com/kdXkZBh.mp4
 .
@@ -125,7 +125,7 @@ __**Room 3**__
 .
 > **__Sanctum Guardian__**
 .tag:sanctum
-.img:https://i.imgur.com/FPOOp1C.png
+.img:https://i.imgur.com/u5gpYd5.jpg
 .
 The first boss of the Temple of Aminishi follows a straightforward attack pattern containing highly damaging attacks which are capable of KOing someone unprepared.
 
@@ -253,7 +253,7 @@ __**Room 5**__
 .img:https://i.imgur.com/kchCKCl.png
 .
 __**Room 1**__
-⬥ Use Greater Ricochet <:grico:787904334812807238> with a long range weapon (2h) on one of the 2 Sakadagamis, then step 2 tiles south, 1 tile west and manually run 2 tiles back towards them.
+⬥ Use Greater Ricochet <:grico:787904334812807238> with a long range weapon (2H) on one of the 2 Sakadagamis, then step 2 tiles south, 1 tile west and manually run 2 tiles back towards them.
 .
 .img:https://i.imgur.com/tWzdnt5.png
 .
@@ -299,7 +299,7 @@ __**Room 3**__
 .
 > **__Masuta, the Ascended__**
 .tag:masuta
-.img:https://i.imgur.com/cUGy1Ad.png
+.img:https://i.imgur.com/VydlHU7.jpg
 .
 Masuta, the second boss of the dungeon, keeps true to the dungeon's theme of heavy damage dealt and high KO potential. Using a variety of hard-hitting mechanics and boasting attacks from all three combat styles, Masuta is a noticeable difficulty spike up from the first boss.
 
@@ -442,7 +442,7 @@ __**Room 1**__
 .
 > **__Seiryu, the Azure Serpent__**
 .tag:seiryu
-.img:https://i.imgur.com/1LxKntU.png
+.img:https://i.imgur.com/tFsgIWX.jpg
 .
 To finish the dungeon, you need to free Seiryu by destroying the three black crystals on his shackles. This fight will challenge a player's ability to utilise the space they have in the arena to avoid a series of area-based mechanics.
 
