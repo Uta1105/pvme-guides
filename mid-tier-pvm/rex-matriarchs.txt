@@ -379,7 +379,7 @@ Camp Soulsplit <:soulsplit:615613924506599497>. If using lower tiered armor or o
 .
 **__Orikalka__**
 .tag:afkori
-Use a revolution bar with a primary focus on channelled abilities as they are less affected by the increased global cooldown from Frostbite. Use Deflect Melee <:DeflectMelee:544195488447201300> together with Animate Dead <:animatedead:856635090453135382> to avoid getting bursted by unlucky fissure spawns. Cast Exsanguinate <:exsanguinate:856635090745950258> to empower your basics and for 100% accuracy since Orikalka is weak to fire spells.
+Use a revolution bar with a primary focus on channelled abilities as they are less affected by the increased global cooldown from Frostbite. Use Soul split <:soulsplit:615613924506599497> together with Animate Dead <:animatedead:856635090453135382> and Penance aura <:penance:643505653062565907> <:powderofpenance:928221126360969226> to sustain your life and prayer points. Penance aura is preferred over other auras, however, should Penance aura be on cooldown, Powder of penance <:powderofpenance:928221126360969226> can be used instead alongside a substitute aura such as Vampyrism aura <:vamp:643505653079343144>. Cast Exsanguinate <:exsanguinate:856635090745950258> to empower your basics and for 100% accuracy since Orikalka is weak to fire spells.
 
 .
 ⬥ **Revo Bar**
