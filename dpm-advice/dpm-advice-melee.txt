@@ -76,6 +76,14 @@
 
 .
 **__Basics:__**
+⬥ **Chaos Roar** <:chaosroar:994644356671737966>
+    • Cooldown: 100t (60s)
+    • Unlocked by reading a chaos roar ability codex
+    • Doubles the base damage of the next melee ability used, including bleed abilities
+    • 7.2 seconds after activation of Chaos Roar to receive double damage on a melee ability
+    • Only affects the next hit from an ability,(e.g First hit of assault, both hits of hurricane)
+
+.
 ⬥ **Dismember** <:dismember:535532879376023572>
     • Cooldown: 25t (15s)
     • It is a Bleed:
